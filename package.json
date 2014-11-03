@@ -1,6 +1,6 @@
 {
     "name"    : "slack-web-info",
-    "version" : "0.1.0",
+    "version" : "0.1.1",
 
     "description" : "Slack bulk information provider high-scalable NodeJS module",
 
@@ -29,8 +29,6 @@
     },
     
     "keywords" : [
-        "node",
-        "nodejs",
         "slack",
         "slack.com",
         "scalable",
