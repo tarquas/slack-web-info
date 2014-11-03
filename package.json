@@ -2,7 +2,7 @@
     "name"    : "slack-web-info",
     "version" : "0.1.0",
 
-    "description" : "NodeJS Mocha + PhantomJS e2e Testing Module",
+    "description" : "Slack bulk information provider high-scalable NodeJS module",
 
     "license" : "MIT",
 
@@ -11,8 +11,8 @@
     "main"  : "./lib/v0/slack-web-info.js",
 
     "dependencies" : {
-        "html-entities" : "^1.2.0",
-        "request"       : "^1.1.1"
+        "html-entities" : "^1.1.1",
+        "request"       : "^2.45.0"
     },
     
     "files" : [
