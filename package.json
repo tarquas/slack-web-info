@@ -1,0 +1,57 @@
+{
+    "name"    : "slack-web-info",
+    "version" : "0.1.0",
+
+    "description" : "NodeJS Mocha + PhantomJS e2e Testing Module",
+
+    "license" : "MIT",
+
+    "homepage" : "http://prywit.com/projects/slack-web-info/",
+    
+    "main"  : "./lib/v0/slack-web-info.js",
+
+    "dependencies" : {
+        "html-entities" : "^1.2.0",
+        "request"       : "^1.1.1"
+    },
+    
+    "files" : [
+        "./lib/v0"
+    ],
+
+    "bugs" : {
+        "url"   : "https://github.com/tarquas/slack-web-info/issues",
+        "email" : "tarquas@gmail.com"
+    },
+
+    "directories" : {
+        "lib" : "./lib"
+    },
+    
+    "keywords" : [
+        "node",
+        "nodejs",
+        "slack",
+        "slack.com",
+        "scalable",
+        "presence",
+        "online",
+        "status",
+        "active",
+        "bulk",
+        "cache"
+    ],
+
+    "author" : {
+        "name"  : "Taras Mykhailovych",
+        "email" : "tarquas@gmail.com",
+        "url"   : "http://prywit.com/tarquas/"
+    },
+
+    "contributors" : [ ],
+
+    "repository" : {
+        "type" : "git",
+        "url"  : "http://github.com/tarquas/slack-web-info.git"
+    }
+}
