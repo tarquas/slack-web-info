@@ -7,7 +7,7 @@ This is official code repository of this project.
 
 ## Project Official Website
 
-http://prywit.com/projects/slack-web-info/
+http://194.44.203.87/projects/slack-web-info/
 
 # Installation
 
